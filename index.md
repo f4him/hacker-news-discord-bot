@@ -26,5 +26,3 @@ This is a discord bot for the popularsocial news website [Hacker News](https://n
 
 ###### IF YOU HAVE ANY SUGGESTIONS OR FEEDBACK REGARDING THE BOT PLEASE [CONTACT ME](https://github.com/f4him/)
 
-```
-
