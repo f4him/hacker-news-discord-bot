@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This is a discord bot for the popularsocial news website [Hacker News](https://news.ycombinator.com/)(sometimes abbreviated as HN). 
+This is a discord bot for the popularsocial news website Hacker News(sometimes abbreviated as HN). 
 
 ## Commands
 
@@ -10,8 +10,7 @@ This is a discord bot for the popularsocial news website [Hacker News](https://n
 *   `!!help` - Displays a help message 
 
 
-<a href="https://discord.com/api/oauth2/authorize?client_id=882523715533934602&permissions=3072&scope=applications.commands%20bot" target="_blank"><h1>INVITE LINK</h1></a>
-# []()
+# <a href="https://discord.com/api/oauth2/authorize?client_id=882523715533934602&permissions=3072&scope=applications.commands%20bot" target="_blank">INVITE LINK</a>
 
 
 ## Todo
@@ -24,5 +23,5 @@ This is a discord bot for the popularsocial news website [Hacker News](https://n
 
 
 
-###### IF YOU HAVE ANY SUGGESTIONS OR FEEDBACK REGARDING THE BOT PLEASE [CONTACT ME](https://github.com/f4him/)
+###### IF YOU HAVE ANY SUGGESTIONS OR FEEDBACK REGARDING THE BOT PLEASE <a href="https://github.com/f4him/" target="_blank">CONTACT ME</a>
 
