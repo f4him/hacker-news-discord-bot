@@ -16,7 +16,7 @@ This is a discord bot for the popular social news website <a href="https://news.
 ## Todo
 *   Stream mode
 *   Fetch n news
-*   Fetch a catagorie
+*   Fetch a catagory
 *   Fetch news with atleast n upvotes
 *   Fetch news not older than n hours
 
