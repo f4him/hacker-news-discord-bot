@@ -2,6 +2,13 @@
 layout: default
 ---
 
+This is a discord bot for the popularsocial news website [Hacker News](https://news.ycombinator.com/) (sometimes abbreviated as HN) is a 
+
+
+
+
+
+
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
