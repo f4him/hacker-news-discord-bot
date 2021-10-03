@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This is a discord bot for the popularsocial news website Hacker News(sometimes abbreviated as HN). 
+This is a discord bot for the popular social news website <a href="https://news.ycombinator.com/" target="_blank">Hacker News</a>(sometimes abbreviated as HN). 
 
 ## Commands
 
