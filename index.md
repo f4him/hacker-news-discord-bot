@@ -10,8 +10,8 @@ This is a discord bot for the popularsocial news website [Hacker News](https://n
 *   `!!help` - Displays a help message 
 
 
-
-# [INVITE LINK](https://discord.com/api/oauth2/authorize?client_id=882523715533934602&permissions=3072&scope=applications.commands%20bot)
+<a href="https://discord.com/api/oauth2/authorize?client_id=882523715533934602&permissions=3072&scope=applications.commands%20bot" target="_blank"><h1>INVITE LINK</h1></a>
+# []()
 
 
 ## Todo
